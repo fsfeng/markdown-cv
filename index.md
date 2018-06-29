@@ -1,91 +1,100 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Fiona Sijie Feng's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Fiona Sijie Feng
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sfeng@stern.nyu.edu">sfeng@stern.nyu.edu</a>
+| <a href="http://fsfeng.github.io/academic">fsfeng.github.io/academic</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Job Market Candidate, NYU Stern Economics
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+### PhD Committee
+Petra Moser, Luis Cabral, Walker Hanlon
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Innovation, knowledge spillovers, agglomeration, machine learning, natural language processing, media influence, employment policy
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-`
+__NYU Stern School of Business__
+- Ph.D. Candidate in Economics
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2011`
+__University of Melbourne__
 
-- Sizar
+- Honours in Economics
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2007-2011`
+__University of Auckland__
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Bachelor of Arts/Bachelor of Commerce (Philosophy & Economics)
 
 
 
-## Publications
+## Awards & Fellowships
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2018`
+AEA CSWEP Summer Fellowship, *Federal Reserve of Minneapolis*
 
-### Journals
+`2017`
+Research Fellowship, *Internet Association*
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Papers
 
 
-## Occupation
+### JMP
 
-`1600`
-__Royal Mint__, London
+`2018`
+<i>Local Production, Local Diffusion? A Reassessment of Knowledge Spillovers Using Machine Learning</i>
 
-- Warden
-- Minted coins
+### Works in Progress
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2018`
+<i>Professionalization as Barrier to Entry.</i> (Joint with Karen Huang)
 
+
+## Conferences & Workshops
+
+`2018`
+__Transatlantic Doctoral Conference__, London Business School, London, England
+
+__Early Career Economists Conference__, Monash University, Melbourne, Australia
+
+`2017`
+__NET Institute Conference__ (Discussant), NYU Stern, New York, USA
+
+__NBER Digitization Tutorial__, Stanford University, Palo Alto, USA
+
+## Teaching
+`UG`
+Teaching Fellow, Competitive Analysis (Spring 2017, Spring 2018)
+
+Teaching Fellow, Introductory Microeconomics (Fall 2016, Fall 2017)
+
+`MBA`
+Teaching Fellow, Global Economy (Summer 2015, Summer 2016, Summer 2017)
+
+Teaching Fellow, Financial Crisis (Fall 2014)
+
+## Personal
+
+### Citizenship
+
+New Zealand
+### Languages
+
+English (Native), Chinese Mandarin (Fluent)
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
