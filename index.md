@@ -10,91 +10,129 @@ title: Fiona Sijie Feng's CV
 </div>
 
 
-## Currently
+## Current
 
 Job Market Candidate, NYU Stern Economics
 
-### PhD Committee
-Petra Moser, Luis Cabral, Walker Hanlon
+## PhD Committee
+Petra Moser (Chair, _Economics, NYU Stern_) `pmoser@stern.nyu.edu`
 
-### Research interests
+Luis Cabral (_Economics, NYU Stern_) `luis.cabral@nyu.edu`
 
-Innovation, knowledge spillovers, agglomeration, machine learning, natural language processing, media influence, employment policy
+Walker Hanlon (_Economics, NYU Stern_) `whanlon@stern.nyu.edu`
+
+Robert Seamans (_Management & Organizations, NYU Stern_) `rseamans.stern.nyu.edu`
+
+## Research interests
+
+Innovation and technology, machine learning & natural language processing, urban economics, law and economics, management, labour policy
 
 
 ## Education
 
 `2013-`
 __NYU Stern School of Business__
-- Ph.D. Candidate in Economics
+
+Ph.D. Candidate in Economics
 
 `2011`
 __University of Melbourne__
 
-- Honours in Economics
+Honours in Economics
 
 `2007-2011`
 __University of Auckland__
 
-- Bachelor of Arts/Bachelor of Commerce (Philosophy & Economics)
+Bachelor of Arts/Bachelor of Commerce (Philosophy & Economics)
 
 
+## Papers
+
+__Measuring the Diffusion of Innovation: A Reassessment of Knowledge Spillovers Using Machine Learning__ (*Job Market Paper*)
+
+__
+
+*Abstract*: The ideas of new invention are encapsulated in the text of a patent. Empirical measures of knowledge flows have previously relied on citations, which are the inputs or influences behind new ideas, not the ideas themselves. I use recently developed Machine Learning/Natural Language Processing methods to convert patent abstracts (which are descriptions of the invention) to vectors and analyse the similarity across inventions. Unlike most of the citations-spillovers literature, I find that geographic localization effects are insignificant to modest: prior to controlling technological proximity, within technology field patents from the same city are about 0-0.08 standard deviations more similar than patents from different cities. Including further technology controls reduces estimates to -0.02 to 0.04. By contrast, citations based measures find that local patents have 0.24-0.34 standard deviations more citations from the same city compared to a non-local control. These findings suggest that significant localization in innovation inputs may not translate to the same effect in outputs.
+
+__
+
+__Effect of management and workplace policies on workers' job satisfaction.__
+
+__State sponsored innovation: Examining government funded technology from past to present.__
+
+__Maintaining suspicion: Job creation through surveillance and incarceration.__
+
+__Professionalisation as barrier to entry.__ *Joint with Karen Huang (Harvard)*
 
 ## Awards & Fellowships
 
 `2018`
-AEA CSWEP Summer Fellowship, *Federal Reserve of Minneapolis*
+American Economic Association (AEA) CSWEP Summer Dissertation Fellowship, *Federal Reserve Bank of Minneapolis*
 
 `2017`
-Research Fellowship, *Internet Association*
+Policy Research Fellowship, *Internet Association*
 
-## Papers
+Teaching Commendation for Rating 6.5/7, Introductory Microeconomics, *NYU Stern*
 
-
-### JMP
-
-`2018`
-<i>Local Production, Local Diffusion? A Reassessment of Knowledge Spillovers Using Machine Learning</i>
-
-### Works in Progress
+## Conferences
 
 `2018`
-<i>Professionalization as Barrier to Entry.</i> (Joint with Karen Huang)
+_Transatlantic Doctoral Conference_, London Business School, London, England
 
-
-## Conferences & Workshops
-
-`2018`
-__Transatlantic Doctoral Conference__, London Business School, London, England
-
-__Early Career Economists Conference__, Monash University, Melbourne, Australia
+_Early Career Economists Conference_, Monash University, Melbourne, Australia
 
 `2017`
-__NET Institute Conference__ (Discussant), NYU Stern, New York, USA
+_NET Institute Conference_ (Discussant), NYU Stern, New York, USA
 
-__NBER Digitization Tutorial__, Stanford University, Palo Alto, USA
+_NBER Digitization Tutorial_, Stanford University, Palo Alto, USA
 
 ## Teaching
 `UG`
-Teaching Fellow, Competitive Analysis (Spring 2017, Spring 2018)
+__NYU Stern__
 
-Teaching Fellow, Introductory Microeconomics (Fall 2016, Fall 2017)
+*Teaching Fellow, Competitive Analysis* with Prof. Greg Kubitz (Spring 2017, Spring 2018)
+
+*Teaching Fellow, Introductory Microeconomics* with Prof. Simon Bowmaker (Fall 2016, Fall 2017)
+
+__University of Melbourne__
+
+*Tutor, Advanced Macroeconomics* with Prof. Lawrence Uren (Semester 2, 2012)
+
+*Tutor, Intermediate Macroeconomics* with Prof. Chris Edmond (Semester 2, 2012)
+
+*Tutor, Introductory Macroeconomics* (Semester 2, 2011; Semester 1, 2012)
+
 
 `MBA`
-Teaching Fellow, Global Economy (Summer 2015, Summer 2016, Summer 2017)
+__NYU Stern__
 
-Teaching Fellow, Financial Crisis (Fall 2014)
+*Teaching Fellow, MBA and EMBA Global Economy* with Prof. Stan Zin (Summer 2015, Summer 2016, Summer 2017)
+
+*Teaching Fellow, Financial Crisis* with Prof. Kim Schoenholtz (Fall 2014)
+
+<!-- ## JMP Abstract
+
+This paper introduces new measures of knowledge spillovers using machine learning/Natural Language Processing (NLP) methods. The existing literature predominantly uses citations data and finds that knowledge spillovers are highly localized. That is, after controlling for technology, a patent's forward citations are highly likely to originate from the same location as the patent.  I convert patent text to data using NLP and use cross-patent similarities as proxies for knowledge spillovers and to construct technology controls. I find evidence that strategic citations may overstate the localization effect under citations, as highly similar patents from different locations are much less likely to be cited. Under citations, local knowledge spillovers are between approximately 70%-120% higher than non-local spillovers.
+Using similarity, I find much smaller and sometimes insignificant estimates: the similarity of local patents are approximately 0-10% higher than non-local patents after controlling for technology fields. These findings suggest that using citations may overstate the effect of localization. -->
+
+## Professional Service
+
+__NYU Stern__
+
+*Doctoral Student Events Committee* (2015)
+
+*Doctoral Applications Reviewer* (2010)
+
+__University of Auckland__
+
+*Student Representative*, University Central Committee, Senate and Equity (2010)
+
+*Treasurer*, Auckland University Students' Association (2009-10)
 
 ## Personal
 
-### Citizenship
+*Citizenship*: New Zealand
 
-New Zealand
-### Languages
+*Languages*: English (Native), Chinese Mandarin (Fluent)
 
-English (Native), Chinese Mandarin (Fluent)
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+*Programming languages*: Python, R, Stata
