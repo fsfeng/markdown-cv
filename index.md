@@ -52,7 +52,7 @@ __Measuring the Diffusion of Innovation: A Reassessment of Knowledge Spillovers 
 
 __
 
-*Abstract*: The ideas of new invention are captured by the text of a patent. Empirical measures of knowledge flows have relied on citations, which reflect the influence of other patents on an invention but not external sources of knowledge. I use unsupervised machine learning methods to convert patent abstracts (which are descriptions of the invention) to numerical vector space representations. Knowledge spillovers are measured using the similarity across patent text vectors. I find that geographic localization effects are insignificant to modest: prior to controlling technological proximity, within technology field patents from the same city are about 0-0.08 standard deviations more similar than patents from different cities. Including further technology controls reduces estimates to -0.02 to 0.04. This suggests that local differentiation in technology space may play a minor role in determining innovation. By contrast, citations based measures find that local patents have 0.24-0.30 standard deviations more citations from the same city compared to a non-local control. These findings indicate that geographic localization of knowledge spillovers may not be a strong driver of local innovation and agglomeration, as suggested by standard citations-based analyses.
+*Abstract*: The ideas of new invention are captured by the text of a patent. Empirical measures of knowledge flows have relied on citations, which reflect the influence of other patents on an invention but not external sources of knowledge. I use unsupervised machine learning methods to convert patent abstracts (which are descriptions of the invention) to numerical vector space representations. Knowledge spillovers are measured using the similarity across patent text vectors. I find that geographic localization effects are insignificant to modest: prior to controlling technological proximity, within technology field patents from the same city are about 0.03-0.08 standard deviations more similar than patents from different cities. Including further technology controls reduces estimates from insignificant to 0.04. By contrast, citations based measures find that local patents have 0.24-0.30 standard deviations more citations from the same city compared to a non-local control. I also find evidence that differentiation may play a minor role in determining innovation for technologically proximate rivals seeking to broaden the scope of their patents, and that this motivation is more pronounced for local rivals. These findings indicate that geographic localization of knowledge spillovers (i) may not be a strong driver of agglomeration, as suggested by standard citations-based analyses; (ii) affects local innovation in a nuanced manner.
 
 __
 
@@ -74,12 +74,18 @@ Policy Research Fellowship, *Internet Association*
 
 Teaching Commendation for Rating 6.5/7, Introductory Microeconomics, *NYU Stern*
 
-## Conferences
+## Conferences and Presentations
 
 `2018`
 _Transatlantic Doctoral Conference_, London Business School, London, England
 
 _Early Career Economists Conference_, Monash University, Melbourne, Australia
+
+_Summer Internship Presentation_, Federal Reserve Bank of Minneapolis, Minneapolis, USA
+
+_NBER Productivity Lunch_, National Bureau of Economic Research, Boston, USA (October)
+
+_Roundtable for Engineering Entrepreneurship Research (REER) Conference_, Georgia Tech, Atlanta, USA (November)
 
 `2017`
 _NET Institute Conference_ (Discussant), NYU Stern, New York, USA
@@ -109,11 +115,6 @@ __NYU Stern__
 *Teaching Fellow, MBA and EMBA Global Economy* with Prof. Stan Zin (Summer 2015, Summer 2016, Summer 2017)
 
 *Teaching Fellow, Financial Crisis* with Prof. Kim Schoenholtz (Fall 2014)
-
-<!-- ## JMP Abstract
-
-This paper introduces new measures of knowledge spillovers using machine learning/Natural Language Processing (NLP) methods. The existing literature predominantly uses citations data and finds that knowledge spillovers are highly localized. That is, after controlling for technology, a patent's forward citations are highly likely to originate from the same location as the patent.  I convert patent text to data using NLP and use cross-patent similarities as proxies for knowledge spillovers and to construct technology controls. I find evidence that strategic citations may overstate the localization effect under citations, as highly similar patents from different locations are much less likely to be cited. Under citations, local knowledge spillovers are between approximately 70%-120% higher than non-local spillovers.
-Using similarity, I find much smaller and sometimes insignificant estimates: the similarity of local patents are approximately 0-10% higher than non-local patents after controlling for technology fields. These findings suggest that using citations may overstate the effect of localization. -->
 
 ## Professional Service
 
