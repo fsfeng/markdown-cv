@@ -19,8 +19,6 @@ Petra Moser (Chair, _Economics, NYU Stern_) `pmoser@stern.nyu.edu`
 
 Luis Cabral (_Economics, NYU Stern_) `luis.cabral@nyu.edu`
 
-Walker Hanlon (_Economics, NYU Stern_) `whanlon@stern.nyu.edu`
-
 Robert Seamans (_Management & Organizations, NYU Stern_) `rseamans.stern.nyu.edu`
 
 ## Research interests
@@ -44,25 +42,6 @@ Honours in Economics
 __University of Auckland__
 
 Bachelor of Arts/Bachelor of Commerce (Philosophy & Economics)
-
-
-## Papers
-
-__Measuring the Diffusion of Innovation: A Reassessment of Knowledge Spillovers Using Machine Learning__ (*Job Market Paper*)
-
-__
-
-*Abstract*: The ideas of new invention are captured by the text of a patent. Empirical measures of knowledge flows have relied on citations, which reflect the influence of other patents on an invention but not external sources of knowledge. I use unsupervised machine learning methods to convert patent abstracts (which are descriptions of the invention) to numerical vector space representations. Knowledge spillovers are measured using the similarity across patent text vectors. I find that geographic localization effects are insignificant to modest: prior to controlling technological proximity, within technology field patents from the same city are about 0.03-0.08 standard deviations more similar than patents from different cities. Including further technology controls reduces estimates from insignificant to 0.04. By contrast, citations based measures find that local patents have 0.24-0.30 standard deviations more citations from the same city compared to a non-local control. I also find evidence that differentiation may play a minor role in determining innovation for technologically proximate rivals seeking to broaden the scope of their patents, and that this motivation is more pronounced for local rivals. These findings indicate that geographic localization of knowledge spillovers (i) may not be a strong driver of agglomeration, as suggested by standard citations-based analyses; (ii) affects local innovation in a nuanced manner.
-
-__
-
-__Effect of management and workplace policies on workers' job satisfaction.__
-
-__State sponsored innovation: Examining government funded technology from past to present.__
-
-__Maintaining suspicion: Job creation through surveillance and incarceration.__
-
-__Professionalisation as barrier to entry.__ *Joint with Karen Huang (Harvard)*
 
 ## Awards & Fellowships
 
@@ -115,6 +94,30 @@ __NYU Stern__
 *Teaching Fellow, MBA and EMBA Global Economy* with Prof. Stan Zin (Summer 2015, Summer 2016, Summer 2017)
 
 *Teaching Fellow, Financial Crisis* with Prof. Kim Schoenholtz (Fall 2014)
+
+## Papers
+
+__Measuring the Diffusion of Innovation: A Reassessment of Knowledge Spillovers Using Machine Learning__ (*Job Market Paper*)
+
+
+*Abstract*: The ideas of new inventions are captured by the texts of patents. Using unsupervised machine learning methods, I convert patent abstracts (which describe the new invention) into vector representations, and measure their knowledge relatedness using cosine similarity. Knowledge spillovers has typically been proxied using patent citations, which finds a large role for geographic localization: local patents have 0.24-0.30 standard deviations more citations from the same city compared to a non-local control. However, proxying for knowledge spillovers using similarity in patent texts finds much smaller localization effects: local inventions are 0-0.08 S.D.s more related compared to non-local inventions. This suggests that while local firms and inventors form technological clusters, these clusters may generate similar innovations to clusters in different cities. One explanation is that access and use of non-patent technical knowledge has a "homogenizing" effect on innovation across locations.
+
+__
+
+__Assessing the quality of management and business practices from employee job reviews__
+
+
+*Abstract*: Employee job reviews contain information on many firm characteristics unobservable from the outside. Job review sites such as Glassdoor and Indeed have become increasingly utilized by both job seekers and current employees to better understand workplace culture and conditions. I collect over 1.2 million job reviews from Indeed.com, matched to firm level data was procured from Compustat. I use machine learning methods (Natural Language Processing and Random Forests) to obtain qualitative data about firms across the dimensions of worker satisfaction, management quality, and workplace quality. First, I assess which words and phrases the predict poor firm performance within an industry. Second, I derive an index of management quality based on review phrases mentioning management. Finally, I evaluate when employee job satisfaction coincides or conflicts with firm performance outcomes.
+
+__
+
+__Technology and governance: past, present, future__
+
+
+*Abstract*: The Defense Department was indispensable to funding and shaping the course of science and computing in the 20th century, and continues to provide extensive financial support for cutting edge artificial intelligence technology. How did this embedded relationship inform the research agenda for computer science? Using Natural Language Processing, I examine the commonalities and differences in the themes of DOD funded and non-funded patents and academic research over time. Then, I evaluate (i) how DOD priorities affected the trajectory of computer science research; (ii) whether current trends in DOD funded research, particularly in Artificial Intelligence, poses risks to civil liberties; (iii) what are the broader implications for the nature of governance as states around the world adopt advanced AI technologies.
+
+__
+
 
 ## Professional Service
 
