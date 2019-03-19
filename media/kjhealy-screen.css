@@ -163,10 +163,10 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	text-align: center;
-	color: #bc412b;
-	font-family: Cousine,monospace,sans-serif;
-	font-size: 100%;
+	left: 25%;
+	color: #aaa;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-size: 75%;
 }
 
 #webaddress a {
