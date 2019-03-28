@@ -2,6 +2,9 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:200,300,400,500,600,700');
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -50,11 +53,11 @@ table {
 
 
 body {
-	font: normal normal 400;
+	font: normal normal 300;
 	font-size: 100%;
 	line-height: 2em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: 'Work Sans', Avenir,Verdana,sans-serif;
 	margin-top: 0.2em;
 	margin-left: 1em;
 	margin-bottom: -0.5em;
@@ -72,7 +75,8 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Cousine,sans-serif;
+	/* font-family: Quicksand, Cousine,sans-serif; */
+	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #767676;
 }
 
@@ -157,7 +161,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	text-align: center;
 	color: #767676;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 75%;
@@ -168,12 +172,12 @@ a:hover {
 }
 
 em {
-	/* font-weight: bold; */
+	font-weight:400;
 	font-style: italic;
 }
 
 strong {
-	font-weight: bold;
+	font-weight: 500;
 }
 
 #address {
