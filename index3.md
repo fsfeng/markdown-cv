@@ -47,7 +47,7 @@ __Assessing the Quality of Management and Business Practices from Employee Job R
 ## Awards
 
 `2018`
-American Economic Association (AEA) CSWEP Summer Dissertation Fellowship, *Federal Reserve Bank of Minneapolis*
+American Economic Association (AEA) CSWEP Summer Dissertation Research Fellowship, *Federal Reserve Bank of Minneapolis*
 
 `2017`
 Policy Research Fellowship, *Internet Association*
@@ -75,20 +75,23 @@ NBER Digitization Tutorial, _Stanford University_, Palo Alto, USA
 `2019`
 Research assistance in natural language processing for Prof. Walker Hanlon (_NYU Stern_)
 
+`2018`
+Summer research fellow in economics (_Federal Reserve Bank of Minneapolis_)
+
 `2014-18`
 Teaching fellow for Global Economy (MBA, EMBA), Financial Crisis (MBA), Introductory Microeconomics (UG), Competitive Analysis (UG) (_NYU Stern_)
 
 `2015`
-Research assistance in data analytics for Prof April Franco (_Toronto_)
+Research assistance in data analytics for Prof April Franco (_Univ. of Toronto_)
 
 `2012`
-Statistical consultant for Logicalis Australia
+Statistical consultant (_Logicalis Australia_)
 
 `2011-12`
-Teaching fellow for Introductory Macroeconomics, Intermediate Macroeconomics, Advanced Macroeconomics (_University of Melbourne_)
+Teaching fellow for Introductory Macroeconomics, Intermediate Macroeconomics, Advanced Macroeconomics (_Univ. of Melbourne_)
 
 `2011-12`
-Research assistance in macroeconomic modeling for Prof Ian King (_University of Melbourne_)
+Research assistance in macroeconomic modeling for Prof Ian King (_Univ. of Melbourne_)
 
 
 ## PhD Committee
@@ -108,10 +111,10 @@ Doctoral Applications Reviewer (_NYU Stern_)
 
 
 `2010`
-Student Representative, University Central Committee, Senate and Equity (_University of Auckland_)
+Student Representative, University Central Committee, Senate and Equity (_Univ. of Auckland_)
 
 `2009-10`
-Treasurer, Auckland University Students' Association (_University of Auckland_)
+Treasurer, Auckland University Students' Association (_Univ. of Auckland_)
 
 ## Personal
 
